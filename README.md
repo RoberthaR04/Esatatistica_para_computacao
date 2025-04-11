@@ -1,19 +1,34 @@
-📊 Estatística para Computação
-Repositório com os materiais e exercícios da disciplina de Estatística para Computação, com foco na prática de análise estatística utilizando R e RStudio.
+# 📊 Estatística para Computação
 
-🧪 O que tem aqui?
-🧾 Scripts .R com códigos feitos nas aulas
-📈 Exercícios envolvendo estatística descritiva, gráficos, média, mediana, desvio padrão, etc.
-💻 Compilação e execução no RStudio
+Este repositório contém os conteúdos desenvolvidos durante a disciplina de **Estatística para Computação**, com atividades implementadas no **RStudio**.
 
+---
 
-🛠 Ferramentas utilizadas 
-R
-RStudio
-Pacotes como ggplot2, dplyr, readr, entre outros
+## 🔍 O que contém
 
-📂 Estrutura do repositório
-📦 Estatistica_para_computacao/
-├── 📁 Codigos/         → Scripts .R com exercícios e exemplos
-├── 📁 Dados/           → Arquivos de dados (caso usados em análise)
-└── 📄 README.md        → Você está aqui!
+- Scripts e análises feitas em **R**
+- Aplicações de distribuições estatísticas
+- Cálculos de média, desvio padrão, variância, etc.
+- Trabalhos práticos e resolução de exercícios
+
+---
+
+## 💻 Ferramentas utilizadas
+
+- 📈 **RStudio**  
+- 📊 **Linguagem R**
+
+---
+
+## 📂 Estrutura
+
+- 📁 `Atividades/`: Scripts .R e arquivos de análise  
+- 📄 `Anotações/`: Materiais complementares e relatórios  
+
+---
+
+## 🎯 Objetivo
+
+Aplicar a estatística no contexto da computação, explorando ferramentas para visualização e análise de dados.
+
+---
